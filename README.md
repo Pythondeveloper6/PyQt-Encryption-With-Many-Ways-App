@@ -1,0 +1,1 @@
+# PyQt-Encryption-With-Many-Ways-App
